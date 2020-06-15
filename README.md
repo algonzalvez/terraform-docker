@@ -1,4 +1,5 @@
 *** TERRAFORM - DOCKER ***
+> Uso de Terraform para orquestar contenedores de Docker. La finalidad es desplegar dos servidores nginx con un index personalizado.
 
 ## Iniciar proyecto terraform
 
