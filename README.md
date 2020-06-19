@@ -1,6 +1,19 @@
 *** TERRAFORM - DOCKER ***
 > Uso de Terraform para orquestar contenedores de Docker. La finalidad es desplegar dos servidores nginx con un index personalizado.
 
+## Clonar repositorio
+
+```
+git clone https://github.com/algonzalvez/terraform-docker.git
+```
+
+## Acceder al directorio raíz
+
+```
+cd terraform-docker/
+```
+
+
 ## Iniciar proyecto terraform
 
 ```init
@@ -24,3 +37,5 @@ terraform plan
 ```apply
 terraform apply
 ```
+
+[Página principal](https://algonzalvez.github.io/)
